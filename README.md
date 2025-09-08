@@ -2,6 +2,8 @@ Wireless Surveillance Rover Using DTMF Technology
 
 A low-cost wireless surveillance rover that can be controlled remotely using mobile phone DTMF signals, featuring live video streaming and autonomous obstacle avoidance capabilities.
 
+![Image](https://github.com/user-attachments/assets/3bf0413f-dae6-4185-8a97-181ea0f949c5)
+
 🎯 Project Overview
 
 This project presents a DTMF-controlled wireless surveillance rover designed for remote monitoring applications in areas where traditional surveillance systems are not feasible. The rover combines DTMF technology with modern wireless communication to provide reliable remote surveillance capabilities.
